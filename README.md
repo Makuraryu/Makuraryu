@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makuraryu
-- 👀 I’m interested in Philosophy,Maths and literature
-- 🌱 I’m currently learning Ontology,Mathematical Analysis.
+- 👀 I’m interested in Philosophy,Maths and literature.
+- 🌱 I’m currently learning philosophy, psychoanalysis and mathmatics.
 - 📫 How to reach me Pumshang2004@163.com
 
 <!---

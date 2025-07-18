@@ -2,6 +2,7 @@
 - 👀 I’m interested in Philosophy,Maths and literature.
 - 🌱 I’m currently learning philosophy, psychoanalysis and mathmatics.
 - 📫 How to reach me Pumshang2004@gmail.com
+- 💵 If you would like to buy me a cup of [Kofi](https://ko-fi.com/makuraryu)...
 
 <!---
 Makuraryu/Makuraryu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

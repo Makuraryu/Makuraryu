@@ -4,7 +4,4 @@
 - 📫 How to reach me Pumshang2004@gmail.com
 - 💵 If you would like to buy me a cup of [Kofi](https://ko-fi.com/makuraryu)...
 
-<!---
-Makuraryu/Makuraryu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GetLoli](https://count.getloli.com/@Makuraryu?name=Makuraryu&theme=booru-jaypee&padding=7&offset=0&align=bottom&scale=0.6&pixelated=1&darkmode=auto)
